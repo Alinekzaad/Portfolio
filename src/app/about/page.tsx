@@ -28,12 +28,12 @@ const education = [
   {
     school: "TUC Yrkeshögskola",
     program: "Webbutvecklare",
-    period: "2023 — tar examen nästa termin",
+    period: "2024 — tar examen nästa termin",
   },
   {
-    school: "Fortbildning & certifikat",
-    program: "IT-support, nätverk, Apple-enhetshantering",
-    period: "Löpande",
+    school: "Yrkeshögskolan Syd",
+    program: "Automations-och Robotingenjör",
+    period: "2020-2022",
   },
 ];
 
