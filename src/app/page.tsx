@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 const highlights = [
@@ -117,10 +118,15 @@ export default function Home() {
               </div>
               <div className="grid gap-6 p-6 sm:grid-cols-2">
                 <div className="space-y-4">
-                  <div className="aspect-[4/3] overflow-hidden rounded-2xl bg-gradient-to-br from-sky-500/30 via-blue-500/20 to-purple-500/30 shadow-3d">
-                    <div className="flex h-full items-center justify-center text-5xl font-bold text-white text-glow">
-                      AN
-                    </div>
+                  <div className="aspect-[4/3] overflow-hidden rounded-2xl shadow-3d">
+                    <Image
+                      src="/Pbild.jpeg"
+                      alt="Ali Nekzad"
+                      width={400}
+                      height={300}
+                      className="h-full w-full object-cover"
+                      priority
+                    />
                   </div>
                   <div className="flex gap-2">
                     <span className="rounded-full bg-emerald-500/10 px-3 py-1 text-xs font-semibold text-emerald-200">
