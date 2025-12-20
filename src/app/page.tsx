@@ -120,7 +120,7 @@ export default function Home() {
                 <div className="space-y-4">
                   <div className="aspect-[4/3] overflow-hidden rounded-2xl shadow-3d">
                     <Image
-                      src="/Pbild.jpeg"
+                      src="/Pbild.png"
                       alt="Ali Nekzad"
                       width={400}
                       height={300}
