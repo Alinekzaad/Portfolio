@@ -4,23 +4,23 @@ const experiences = [
   {
     title: "IT-tekniker",
     company: "Medborgarskolan",
-    period: "2023 — nu",
+    period: "Arbete",
     description:
-      "Teknisk support, felsökning, enhetsadministration och hantering av Apple-enheter via Jamf. Säkerställer stabil drift och hjälper användare snabbt.",
+      "Teknisk support, felsökning och enhetsadministration med fokus på stabil drift och användarnära IT-stöd. Arbetar dagligen med hantering av Apple-enheter via Jamf, konton, behörigheter och systemmiljöer. Säkerställer att användare får snabb och tydlig hjälp samt att IT-miljön fungerar pålitligt i verksamheten. Samarbete med kollegor för strukturerade arbetsflöden och långsiktiga lösningar.",
   },
   {
     title: "Webbutvecklare (studier & projekt)",
     company: "TUC Yrkeshögskola + egna projekt",
-    period: "2023 — nu",
+    period: "Utbildning",
     description:
-      "Bygger moderna lösningar med Next.js, React, TypeScript och Tailwind. Fokuserar på responsiv design, prestanda och tydlig UX.",
+      "Utvecklar moderna webbapplikationer med fokus på tydlig struktur, responsiv design och god användarupplevelse. Arbetar med Next.js, React, TypeScript och Tailwind i både individuella och gruppbaserade projekt. Har ett helhetstänk kring frontend, komponentbaserad utveckling, prestanda och tillgänglighet, samt koppling mot backend-lösningar i .NET. Bygger projekt som speglar verkliga användarbehov och moderna utvecklingsmetoder.",
   },
   {
     title: "IT-support / drift",
     company: "Olika uppdrag",
-    period: "2019 — 2023",
+    period: "Arbete",
     description:
-      "Support, felsökning, nätverk och klienthantering. Vande mig vid att snabbt identifiera problem och leverera tydliga lösningar.",
+      "Bred erfarenhet av IT-support, felsökning och klienthantering i olika miljöer. Van att arbeta strukturerat med incidenter, nätverksrelaterade problem och användarstöd under tidspress. Har utvecklat stark problemlösningsförmåga, tydlig kommunikation med användare och förmåga att snabbt identifiera och åtgärda tekniska problem.",
   },
 ];
 
