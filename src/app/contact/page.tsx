@@ -23,7 +23,7 @@ export default function ContactPage() {
         </h1>
         <p className="mt-4 max-w-3xl text-lg text-slate-300">
           Hör av dig så återkommer jag inom 24 timmar. E-post går också bra:
-          <span className="ml-1 font-semibold text-white">ali.nekzad@gmail.com</span>
+          <span className="ml-1 font-semibold text-white">alinekzaad@gmail.com</span>
         </p>
       </header>
 

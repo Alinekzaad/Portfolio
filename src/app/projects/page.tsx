@@ -6,7 +6,7 @@ const projects = [
   {
     title: "GolfCentar WebApp",
     description:
-      "Ett avancerat fullstack-projekt byggt i .NET Razor Pages. Innehåller community-flöde, blogg, produktbutik, orderhantering, användarkonton, adminpanel och dynamisk databas.",
+      "GolfCentar är ett grupparbete inom utbildningen till webbutvecklare där en webbapplikation för ett fiktivt golfcenter utvecklades. Mitt ansvar låg främst på bloggfunktionen, inklusive hantering och visning av innehåll i en Razor Pages-applikation. Projektet genomfördes i samarbete med andra studenter och gav erfarenhet av .NET, Razor Pages och arbete i team.",
     image: "/golfcentar.png",
     linkLabel: "GitHub",
     link: "https://github.com/Alinekzaad/GolfCentar-WebApp",
