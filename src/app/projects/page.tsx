@@ -9,7 +9,7 @@ const projects = [
       "GolfCentar är ett grupparbete inom utbildningen till webbutvecklare där en webbapplikation för ett fiktivt golfcenter utvecklades. Mitt ansvar låg främst på bloggfunktionen, inklusive hantering och visning av innehåll i en Razor Pages-applikation. Projektet genomfördes i samarbete med andra studenter och gav erfarenhet av .NET, Razor Pages och arbete i team.",
     image: "/golfcentar.png",
     linkLabel: "Live Site",
-    link: "https://splendid-puffpuff-f4f64a.netlify.app/",
+    link: "https://golfcentar.netlify.app/",
   },
   {
     title: "TriUnity Proteinshop",
