@@ -69,7 +69,7 @@ export default function Home() {
                 Jobbar som IT-tekniker på Medborgarskolan
               </span>
               <span className="rounded-full bg-sky-500/15 px-4 py-2 text-xs font-semibold text-sky-100">
-                Tar examen nästa termin – Webbutvecklare TUC YH
+               Tar examen i april 2026 (Webbutvecklare, TUC YH
               </span>
             </div>
             <p className="max-w-2xl text-lg text-slate-300">{bio}</p>
