@@ -40,24 +40,24 @@ Mitt fokus ligger på att bygga moderna, responsiva och användarvänliga webbap
 ## 🚀 Köra projektet lokalt
 Klona repot från GitHub:
 
-1.git clone https://github.com/Alinekzaad/Portfolio.git
+1. git clone https://github.com/Alinekzaad/Portfolio.git
 
 
-2.Gå in i projektmappen:
+2. Gå in i projektmappen:
 
-cd Portfolio
-
-
-3.Installera beroenden:
-
-npm install
+- cd Portfolio
 
 
-4.Starta utvecklingsservern:
+3. Installera beroenden:
 
-npm run dev
+- npm install
 
 
-5.Öppna webbläsaren och gå till:
+4. Starta utvecklingsservern:
 
-http://localhost:3000
+- npm run dev
+
+
+5. Öppna webbläsaren och gå till:
+
+ - http://localhost:3000
