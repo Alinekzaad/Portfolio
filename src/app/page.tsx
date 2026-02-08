@@ -47,7 +47,7 @@ const stats = [
 ];
 
 const bio =
-  "Jag heter Ali Nekzad och studerar webbutveckling vid TUC Yrkeshögskola där jag tar examen nästa termin. Jag arbetar idag som IT-tekniker på Medborgarskolan, där jag ansvarar för teknisk support, felsökning, enhetsadministration och hantering av Apple-enheter genom Jamf. I mina utvecklingsprojekt fokuserar jag på moderna tekniker som React, Next.js, TypeScript, Tailwind CSS samt C#/.NET. Jag bygger responsiva, användarvänliga och prestandafokuserade lösningar och strävar alltid efter att kombinera teknisk precision med tydlig design och enkel användarupplevelse.";
+  "Jag heter Ali Nekzad och studerar webbutveckling vid TUC Yrkeshögskola, med examen i april 2026. Parallellt arbetar jag som IT-tekniker på Medborgarskolan, där jag jobbar med teknisk support, felsökning, enhetsadministration och Apple-miljöer via Jamf.Jag har ett starkt intresse för modern webbutveckling och arbetar främst med React, Next.js, TypeScript, Tailwind CSS och C#/.NET. Mitt fokus ligger på att skapa responsiva, användarvänliga och prestandaeffektiva lösningar där teknik, design och användarupplevelse samverkar.
 
 export default function Home() {
   return (
