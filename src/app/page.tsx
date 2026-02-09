@@ -69,7 +69,7 @@ export default function Home() {
                 Jobbar som IT-tekniker på Medborgarskolan
               </span>
               <span className="rounded-full bg-sky-500/15 px-4 py-2 text-xs font-semibold text-sky-100">
-               Tar examen i april 2026 (Webbutvecklare, TUC YH
+               Tar examen i april 2026 (Webbutvecklare, TUC YH)
               </span>
             </div>
             <p className="max-w-2xl text-lg text-slate-300">{bio}</p>
@@ -154,7 +154,7 @@ export default function Home() {
                     </p>
                     <p className="mt-2 text-sm text-slate-400">
                       Support, felsökning, enhetshantering (Jamf) och säkra miljöer för
-                      Apple-enheter.Tar examen i april 2026 som webbutvecklare vid TUC YH.
+                      Apple-enheter. Tar examen i april 2026 som webbutvecklare vid TUC YH.
                     </p>
                   </div>
                 </div>
