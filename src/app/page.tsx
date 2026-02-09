@@ -154,7 +154,7 @@ export default function Home() {
                     </p>
                     <p className="mt-2 text-sm text-slate-400">
                       Support, felsökning, enhetshantering (Jamf) och säkra miljöer för
-                      Apple-enheter. Tar examen nästa termin som webbutvecklare vid TUC YH.
+                      Apple-enheter.Tar examen i april 2026 som webbutvecklare vid TUC YH.
                     </p>
                   </div>
                 </div>
