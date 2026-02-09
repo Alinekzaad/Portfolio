@@ -28,7 +28,7 @@ const education = [
   {
     school: "TUC Yrkeshögskola",
     program: "Webbutvecklare",
-    period: "2024 — tar examen nästa termin",
+    period: "2024 — Tar examen i april 2026",
   },
   {
     school: "Yrkeshögskolan Syd",
@@ -52,7 +52,7 @@ const skills = [
 ];
 
 const bio =
-  "Jag heter Ali Nekzad och studerar webbutveckling vid TUC Yrkeshögskola där jag tar examen nästa termin. Jag arbetar idag som IT-tekniker på Medborgarskolan, där jag ansvarar för teknisk support, felsökning, enhetsadministration och hantering av Apple-enheter genom Jamf. I mina utvecklingsprojekt fokuserar jag på moderna tekniker som React, Next.js, TypeScript, Tailwind CSS samt C#/.NET. Jag bygger responsiva, användarvänliga och prestandafokuserade lösningar och strävar alltid efter att kombinera teknisk precision med tydlig design och enkel användarupplevelse.";
+  "Jag heter Ali Nekzad och studerar webbutveckling vid TUC Yrkeshögskola där jag tar examen i april 2026. Jag arbetar idag som IT-tekniker på Medborgarskolan, där jag ansvarar för teknisk support, felsökning, enhetsadministration och hantering av Apple-enheter genom Jamf. I mina utvecklingsprojekt fokuserar jag på moderna tekniker som React, Next.js, TypeScript, Tailwind CSS samt C#/.NET. Jag bygger responsiva, användarvänliga och prestandafokuserade lösningar och strävar alltid efter att kombinera teknisk precision med tydlig design och enkel användarupplevelse.";
 
 export const metadata: Metadata = {
   title: "Om mig | Ali Nekzad",
@@ -72,7 +72,7 @@ export default function AboutPage() {
             Jobbar som IT-tekniker på Medborgarskolan
           </span>
           <span className="rounded-full bg-sky-500/15 px-4 py-2 text-xs font-semibold text-sky-100">
-            Tar examen nästa termin – Webbutvecklare TUC Yrkeshögskola
+            Tar examen April 2026 – Webbutvecklare TUC Yrkeshögskola
           </span>
         </div>
         <p className="mt-4 max-w-3xl text-lg text-slate-300">{bio}</p>
